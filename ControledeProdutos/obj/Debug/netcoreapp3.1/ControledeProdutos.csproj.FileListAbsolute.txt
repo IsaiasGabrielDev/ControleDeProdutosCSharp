@@ -1,0 +1,13 @@
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\bin\Debug\netcoreapp3.1\ControledeProdutos.exe
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\bin\Debug\netcoreapp3.1\ControledeProdutos.deps.json
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\bin\Debug\netcoreapp3.1\ControledeProdutos.runtimeconfig.json
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\bin\Debug\netcoreapp3.1\ControledeProdutos.runtimeconfig.dev.json
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\bin\Debug\netcoreapp3.1\ControledeProdutos.dll
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\bin\Debug\netcoreapp3.1\ControledeProdutos.pdb
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\obj\Debug\netcoreapp3.1\ControledeProdutos.csprojAssemblyReference.cache
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\obj\Debug\netcoreapp3.1\ControledeProdutos.AssemblyInfoInputs.cache
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\obj\Debug\netcoreapp3.1\ControledeProdutos.AssemblyInfo.cs
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\obj\Debug\netcoreapp3.1\ControledeProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\obj\Debug\netcoreapp3.1\ControledeProdutos.dll
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\obj\Debug\netcoreapp3.1\ControledeProdutos.pdb
+C:\Users\Isaias\Documents\Udemy estudos\Workspace C#\ControledeProdutos\ControledeProdutos\obj\Debug\netcoreapp3.1\ControledeProdutos.genruntimeconfig.cache
